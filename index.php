@@ -35,12 +35,10 @@
           <form>
             <div class="form-group centered">
               <label for="naziv_marke">Naziv marke:</label>
-              <!-- value imas ovde -->
               <input type="text" class="form-control" id="naziv_marke" value='' required>
             </div>
             <div class="form-group">
               <label for="zemlja_porekla">Zemlja porekla:</label>
-              <!-- value imas ovde -->
               <select type="text" class="form-control" id="zemlja_porekla" value='' required></select>
             </div>
             <fieldset disabled>
